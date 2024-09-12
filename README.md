@@ -1,4 +1,4 @@
-## olá visitante! 👋
+## Hello! Visitor! 👋
 
 
 <div align="center">  
