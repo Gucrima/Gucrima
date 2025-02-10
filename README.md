@@ -25,7 +25,7 @@
 
 
 <div align="center">
-  <h1> <img src="https://feiradecursos.ufpr.br/wp-content/uploads/2020/11/matematica-guaxinim.gif" width="80px"></h1>
+  <h1> <img src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="80px"></h1>
 </div>
 
 
