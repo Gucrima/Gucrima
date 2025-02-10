@@ -25,7 +25,7 @@
 
 
 <div align="center">
-  <h1> <img src="https://feiradecursos.ufpr.br/wp-content/uploads/2020/11/matematica-guaxinim.gif" ></h1>
+  <img src="https://feiradecursos.ufpr.br/wp-content/uploads/2020/11/matematica-guaxinim.gif" >
 </div>
 
 
