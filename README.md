@@ -1,4 +1,8 @@
 ## Hello! 👋 My name is Gustavo! I'm a developer 🖥💻
+
+  <a href="https://github.com/Gucrima">
+    <img src="https://img.shields.io/github/followers/Gucrima?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
+  </a>
  
 ![Gucrima's Stats](https://github-readme-stats.vercel.app/api?username=Gucrima&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 ![Gucrima's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gucrima&theme=gotham&hide_border=false)
