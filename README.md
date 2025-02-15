@@ -1,9 +1,8 @@
 ## Hello! 👋 My name is Gustavo! I'm a developer 🖥💻
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gucrima&show_icons=true&count_private=true&hide_border=true&title_color=26A653&icon_color=26A653&text_color=c9d1d9&bg_color=0d1117" alt="Th.Vbs github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gucrima&layout=compact&hide_border=true&title_color=26A653&text_color=26A653&bg_color=0d1117" />
-</div>
+ 
+![Gucrima's Stats](https://github-readme-stats.vercel.app/api?username=Gucrima&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+![Gucrima's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gucrima&theme=gotham&hide_border=false)
+![Gucrima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gucrima&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 ### Studying in this moment:
 
