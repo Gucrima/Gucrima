@@ -24,3 +24,5 @@
 <a href="mailto:gusssoares09@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=4F4F4E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 <a href="https://www.instagram.com/gustavo.sfranco/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 <a href="https://www.linkedin.com/in/gustavo-franco-83b4022a7/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+
+![Texto Alternativo](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3A1amV6Z25qdGluMnd3aW10OWRma3VuOTliNnRzbnA2OHpwazB1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GY6Zmupsc3ilQbsjbL/giphy.gif)
