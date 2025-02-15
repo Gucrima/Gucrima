@@ -25,5 +25,4 @@
 <a href="https://www.instagram.com/gustavo.sfranco/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 <a href="https://www.linkedin.com/in/gustavo-franco-83b4022a7/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 
-![Texto Alternativo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3dybnQ0ZmU2YW1sc2xnc3EwdDh0NTdsdnVvZ3JoNmp3Z3Y3c2toMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nhJhID6f28Jd5w5Ksv/giphy.gif) 
 
