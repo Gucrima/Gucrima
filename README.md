@@ -21,4 +21,8 @@
 ### social media:
 <a href="https://www.instagram.com/gustavo.sfranco/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 <a href="https://www.linkedin.com/in/gustavo-franco-83b4022a7/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-<a href="https://discord.com/{Gucrima}/635672859548712960" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" target="_blank"></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gmail" />
+  </a>
+</p>
