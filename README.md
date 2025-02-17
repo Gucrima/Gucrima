@@ -5,7 +5,7 @@
   </a>
  
 ![Gucrima's Stats](https://github-readme-stats.vercel.app/api?username=Gucrima&theme=gotham&show_icons=true&hide_border=false&count_private=true)
-![Gucrima's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gucrima&theme=gotham&hide_border=false)
+![Gucrima's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gucrima&theme=gotham&hide_border=true)
 ![Gucrima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gucrima&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 ### Studying in this moment:
