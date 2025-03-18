@@ -22,17 +22,18 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=black)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=black)
 
+## Contatos
+<a href="mailto:gusssoares09@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=4F4F4E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+<a href="https://www.instagram.com/gustavo.sfranco/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+<a href="https://www.linkedin.com/in/gustavo-franco-83b4022a7/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+<a href="" /> ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) </a>
+
 ## Estatísticas do meu perfil
 
 ![Gucrima's Stats](https://github-readme-stats.vercel.app/api?username=Gucrima&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Gucrima&layout=pie&langs_count=16&theme=gotham&show) 
 
-## Contatos
-<a href="mailto:gusssoares09@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=4F4F4E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-<a href="https://www.instagram.com/gustavo.sfranco/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-<a href="https://www.linkedin.com/in/gustavo-franco-83b4022a7/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-<a href="" /> ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) </a>
 
 
 
