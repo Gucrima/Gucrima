@@ -4,8 +4,8 @@
     <img src="https://img.shields.io/github/followers/Gucrima?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
   </a>
  
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Gucrima&layout=pie&langs_count=16&theme=gotham&show)
 ![Gucrima's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gucrima&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Gucrima&layout=pie&langs_count=16&theme=gotham&show)
 ![Gucrima's Stats](https://github-readme-stats.vercel.app/api?username=Gucrima&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
 ### Studying in this moment:
