@@ -35,10 +35,13 @@
 <a href="" /> ![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) </a>
 
 ## Estatísticas do meu perfil
-
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Gucrima&layout=pie&langs_count=16&theme=gotham&show) 
 ![Gucrima's Stats](https://github-readme-stats.vercel.app/api?username=Gucrima&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Gucrima&layout=pie&langs_count=16&theme=gotham&show) 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gucrima}/count.svg" /></p> 
+<br></div>
 
 
 
