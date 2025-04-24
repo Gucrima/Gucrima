@@ -1,28 +1,30 @@
-name: Exemplo de Ação
+name: Gerar Cobra de Contribuições
 
 on:
-  push:
-    branches:
-      - main  # A ação será executada sempre que houver um push na branch principal.
-  pull_request:
-    branches:
-      - main  # A ação será executada quando um PR for aberto contra a branch principal.
+  schedule:
+    - cron: "0 */6 * * *"  # Executa a cada 6 horas
+  workflow_dispatch:  # Permite execução manual
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out código
-        uses: actions/checkout@v2  # Esse passo faz o checkout do código no repositório.
-      
-      - name: Instalar dependências
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y python3 python3-pip
-      
-      - name: Rodar teste
-        run: |
-          echo "Executando testes..."
-          # Aqui você pode rodar algum comando de teste ou build, por exemplo:
-          python3 -m unittest
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate snake image
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output
+          folder: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
