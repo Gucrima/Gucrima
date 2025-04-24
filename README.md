@@ -43,4 +43,3 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gucrima}/count.svg" /></p> 
 <br></div>
 
-![snake gif](https://github.com/gucrima/Gucrima/blob/output/github-contribution-grid-snake.svg)
