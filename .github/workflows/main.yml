@@ -2,8 +2,8 @@ name: Gerar Cobra de Contribuições
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Executa a cada 6 horas
-  workflow_dispatch:  # Permite execução manual
+    - cron: "*/1 * * * *"  # Executa a cada 1 minuto
+  workflow_dispatch:  # Permite execução manual, se necessário
 
 jobs:
   generate:
