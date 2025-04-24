@@ -43,6 +43,9 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gucrima}/count.svg" /></p> 
 <br></div>
 
+![snake eating commits](about:blank)
+
+
 
 
 
