@@ -1,0 +1,28 @@
+name: Exemplo de Ação
+
+on:
+  push:
+    branches:
+      - main  # A ação será executada sempre que houver um push na branch principal.
+  pull_request:
+    branches:
+      - main  # A ação será executada quando um PR for aberto contra a branch principal.
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out código
+        uses: actions/checkout@v2  # Esse passo faz o checkout do código no repositório.
+      
+      - name: Instalar dependências
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3 python3-pip
+      
+      - name: Rodar teste
+        run: |
+          echo "Executando testes..."
+          # Aqui você pode rodar algum comando de teste ou build, por exemplo:
+          python3 -m unittest
