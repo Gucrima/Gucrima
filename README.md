@@ -27,7 +27,9 @@
 
 ## Estatísticas do meu perfil
 ![Status](./profile-3d-contrib/profile-night-green.svg)
-![Gucrima's Stats](https://github-readme-stats.vercel.app/api?username=Gucrima&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gucrima&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="Gucrima's Stats" />
+</p>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
