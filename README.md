@@ -12,12 +12,12 @@
 
 ## Ferramentas
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,nodejs,arduino,azure,discord,figma,github,gmail,instagram,linkedin,postman" />
+    <img src="https://skillicons.dev/icons?i=postgres,npm,nodejs,arduino,azure,discord,figma,github,gmail,instagram,linkedin,postman" />
   </a>
 
 ## Estudando 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs" />
+    <img src="https://skillicons.dev/icons?i=cs,net,docker,bootstrap" />
   </a>
 
 ## Contatos
