@@ -4,8 +4,6 @@
     <img src="https://img.shields.io/github/followers/Gucrima?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
   </a>
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-
 ## Linguagens
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
