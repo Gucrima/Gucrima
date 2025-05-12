@@ -27,7 +27,6 @@
 
 ## Estatísticas do meu perfil
 ![Status](./profile-3d-contrib/profile-night-green.svg)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Gucrima&layout=pie&langs_count=16&theme=gotham&show) 
 ![Gucrima's Stats](https://github-readme-stats.vercel.app/api?username=Gucrima&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 
 <div align="center">
