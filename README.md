@@ -1,5 +1,7 @@
 # Olá! Meu nome é Gustavo! Sou um desenvolvedor
 
+![Header](./github-header-image.png)
+
   <a href="https://github.com/Gucrima">
     <img src="https://img.shields.io/github/followers/Gucrima?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
   </a>
