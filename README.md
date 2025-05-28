@@ -2,27 +2,15 @@
 
 ![Header](./github-header-image.png)
 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,js,css,cs,postgres,npm,nodejs,arduino,azure,discord,figma,github,gmail,instagram,linkedin,postman,cs,net,docker,bootstrap" />
+  </a>  
+  
+  ![image](https://github.com/user-attachments/assets/e0062e50-8695-4b79-bf4c-dc5bc4473286)
+
   <a href="https://github.com/Gucrima">
     <img src="https://img.shields.io/github/followers/Gucrima?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
   </a>
-
-
-## Linguagens
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,js,css,cs" />
-  </a>
-
-## Ferramentas
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,npm,nodejs,arduino,azure,discord,figma,github,gmail,instagram,linkedin,postman" />
-  </a>
-
-## Estudando 
-![image](https://github.com/user-attachments/assets/e0062e50-8695-4b79-bf4c-dc5bc4473286)
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,net,docker,bootstrap" /> 
-  </a>
-  
 
 ## Contatos
 <a href="mailto:gusssoares09@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
