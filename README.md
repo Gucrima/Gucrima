@@ -3,7 +3,7 @@
 ![Header](./github-header-image.png)
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,js,css,cs,postgres,npm,nodejs,arduino,azure,discord,figma,github,gmail,instagram,linkedin,postman,cs,net,docker,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,html,js,css,cs,postgres,npm,nodejs,arduino,azure,discord,figma,github,gmail,linkedin,postman,cs,net,docker,bootstrap" />
   </a>  
   
   ![image](https://github.com/user-attachments/assets/e0062e50-8695-4b79-bf4c-dc5bc4473286)
@@ -14,7 +14,6 @@
 
 ## Contatos
 <a href="mailto:gusssoares09@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://www.instagram.com/gustavo.sfranco/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://www.linkedin.com/in/gustavo-franco-83b4022a7/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 
 ## Estatísticas do meu perfil
