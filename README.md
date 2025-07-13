@@ -22,8 +22,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Gucrima&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="Gucrima's Stats" />
 </p>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gucrima}/count.svg" /></p> 
-<br></div>
 
