@@ -1,7 +1,5 @@
 # Olá! Meu nome é Gustavo! Sou um desenvolvedor
 
-![Header](./github-header-image.png)
-
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,react,vite,html,js,css,cs,postgres,npm,nodejs,arduino,azure,discord,figma,github,gmail,linkedin,postman,net,docker,bootstrap" />
   </a>  
