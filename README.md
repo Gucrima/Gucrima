@@ -3,7 +3,7 @@
 
 ## Linguagens
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,html,js,css,cs" />
+    <img src="https://skillicons.dev/icons?i=react,html,js,css,cs" />
   </a>  
   
 ## Ferramentas
