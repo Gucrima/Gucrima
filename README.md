@@ -14,7 +14,7 @@
   ## Estudando
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,net,aws,docker,cs,net" />
+    <img src="https://skillicons.dev/icons?i=postman,net,aws,docker,cs" />
   </a>  
   
   ![image](https://github.com/user-attachments/assets/e0062e50-8695-4b79-bf4c-dc5bc4473286)
