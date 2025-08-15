@@ -8,7 +8,13 @@
   
 ## Ferramentas
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postgres,npm,nodejs,arduino,discord,figma,github,postman,net,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postgres,npm,nodejs,arduino,discord,figma,github" />
+  </a>  
+
+  ## Estudando
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,net,aws,docker,cs,net" />
   </a>  
   
   ![image](https://github.com/user-attachments/assets/e0062e50-8695-4b79-bf4c-dc5bc4473286)
