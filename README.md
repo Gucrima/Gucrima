@@ -28,7 +28,6 @@
 <a href="https://www.linkedin.com/in/gustavo-franco-83b4022a7/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 
 ## Estatísticas do meu perfil
-![Status](./profile-3d-contrib/profile-night-green.svg)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gucrima&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="Gucrima's Stats" />
 </p>
